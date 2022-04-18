@@ -1,0 +1,76 @@
+{
+  "kind": "column",
+  "name": "Customized stacked bar chart",
+  "description": "",
+  "author": "Thinh Dinh <thinh@lowcode.agency>",
+  "params": [
+    {
+      "name": "name",
+      "displayName": "Participant names",
+      "type": "string"
+    },
+    {
+      "name": "socialize",
+      "displayName": "Socialize data",
+      "type": "string"
+    },
+    {
+      "name": "task",
+      "displayName": "Task data",
+      "type": "string"
+    },
+    {
+      "name": "inquire",
+      "displayName": "Inquire data",
+      "type": "string"
+    },
+    {
+      "name": "advocate",
+      "displayName": "Advocate data",
+      "type": "string"
+    },
+    {
+      "name": "support",
+      "displayName": "Support data",
+      "type": "string"
+    },
+    {
+      "name": "disagree",
+      "displayName": "Disagree data",
+      "type": "string"
+    },
+    {
+      "name": "facilitate",
+      "displayName": "Facilitate data",
+      "type": "string"
+    },
+    {
+      "name": "action_plan",
+      "displayName": "Action Plan data",
+      "type": "string"
+    },
+    {
+      "name": "interrupt",
+      "displayName": "Interrupt data",
+      "type": "string"
+    },
+    {
+      "name": "detract",
+      "displayName": "Detract data",
+      "type": "string"
+    },
+    {
+      "name": "width",
+      "displayName": "Width (default to 100vw)",
+      "type": "number"
+    },
+    {
+      "name": "height",
+      "displayName": "Height (default to 80vh)",
+      "type": "number"
+    }
+  ],
+  "result": {
+    "type": "uri"
+  }
+}
